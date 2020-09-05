@@ -9,7 +9,7 @@ export const setCookie = (key, value) => {
       expires: 30,
       path: '/'
     });
-  }ё
+  }
 };
 
 export const removeCookie = (key) => {
